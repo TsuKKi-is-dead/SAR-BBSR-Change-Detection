@@ -1,0 +1,10 @@
+data/
+.venv/
+__pycache__/
+*.pyc
+*.zip
+*.SAFE
+*.npy
+*.tif
+*.h5
+.DS_Store
